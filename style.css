@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Lato:wght@400;700&family=Poppins:wght@500&display=swap');
+/* font-family: 'Inter', sans-serif; */
+
+
+body{    
+font-size: 16px;
+font-weight: 500;
+line-height: auto;
+}
+.banner-item{
+    padding: 120px 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+.py-10{
+    padding: 100px 0;
+}
+
+.essential-item span{
+    background-color:#DC9780;   
+}
+
+.footer-area{
+    background-color: black;
+padding: 20px;
+
+}
